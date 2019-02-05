@@ -1,0 +1,10 @@
+D:\MOO\1-8Huk\1-8Huk\1-8Huk\bin\Debug\1-8Huk.exe
+D:\MOO\1-8Huk\1-8Huk\1-8Huk\bin\Debug\1-8Huk.pdb
+D:\MOO\1-8Huk\1-8Huk\1-8Huk\bin\Debug\MathParserNet.dll
+D:\MOO\1-8Huk\1-8Huk\1-8Huk\obj\x86\Debug\1-8Huk.csprojResolveAssemblyReference.cache
+D:\MOO\1-8Huk\1-8Huk\1-8Huk\obj\x86\Debug\_1_8Huk.MyProg.resources
+D:\MOO\1-8Huk\1-8Huk\1-8Huk\obj\x86\Debug\1-8Huk.csproj.GenerateResource.Cache
+D:\MOO\1-8Huk\1-8Huk\1-8Huk\obj\x86\Debug\1-8Huk.exe
+D:\MOO\1-8Huk\1-8Huk\1-8Huk\obj\x86\Debug\1-8Huk.pdb
+F:\work\MOO\1-8Huk\1-8Huk\1-8Huk\obj\x86\Debug\1-8Huk.exe
+F:\work\MOO\1-8Huk\1-8Huk\1-8Huk\obj\x86\Debug\1-8Huk.pdb

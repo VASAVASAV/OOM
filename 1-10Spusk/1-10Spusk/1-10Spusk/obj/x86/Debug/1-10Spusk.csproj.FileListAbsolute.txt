@@ -1,0 +1,16 @@
+D:\MOO\1-10Spusk\1-10Spusk\1-10Spusk\obj\x86\Debug\1-10Spusk.csprojResolveAssemblyReference.cache
+D:\MOO\1-10Spusk\1-10Spusk\1-10Spusk\obj\x86\Debug\_1_8Huk.MyProg.resources
+D:\MOO\1-10Spusk\1-10Spusk\1-10Spusk\obj\x86\Debug\1-10Spusk.csproj.GenerateResource.Cache
+D:\MOO\1-10Spusk\1-10Spusk\1-10Spusk\bin\Debug\1-10Spusk.exe
+D:\MOO\1-10Spusk\1-10Spusk\1-10Spusk\bin\Debug\1-10Spusk.pdb
+D:\MOO\1-10Spusk\1-10Spusk\1-10Spusk\bin\Debug\MathParserNet.dll
+D:\MOO\1-10Spusk\1-10Spusk\1-10Spusk\obj\x86\Debug\1-10Spusk.exe
+D:\MOO\1-10Spusk\1-10Spusk\1-10Spusk\obj\x86\Debug\1-10Spusk.pdb
+F:\work\MOO\1-10Spusk\1-10Spusk\1-10Spusk\obj\x86\Debug\1-10Spusk.exe
+F:\work\MOO\1-10Spusk\1-10Spusk\1-10Spusk\obj\x86\Debug\1-10Spusk.pdb
+F:\work\MOO\1-10Spusk\1-10Spusk\1-10Spusk\bin\Debug\1-10Spusk.exe
+F:\work\MOO\1-10Spusk\1-10Spusk\1-10Spusk\bin\Debug\1-10Spusk.pdb
+F:\work\MOO\1-10Spusk\1-10Spusk\1-10Spusk\bin\Debug\MathParserNet.dll
+F:\work\MOO\1-10Spusk\1-10Spusk\1-10Spusk\obj\x86\Debug\1-10Spusk.csprojResolveAssemblyReference.cache
+F:\work\MOO\1-10Spusk\1-10Spusk\1-10Spusk\obj\x86\Debug\_1_8Huk.MyProg.resources
+F:\work\MOO\1-10Spusk\1-10Spusk\1-10Spusk\obj\x86\Debug\1-10Spusk.csproj.GenerateResource.Cache

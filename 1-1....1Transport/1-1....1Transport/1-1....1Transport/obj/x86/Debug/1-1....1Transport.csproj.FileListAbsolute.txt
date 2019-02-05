@@ -1,0 +1,7 @@
+F:\work\MOO\1-1....1Transport\1-1....1Transport\1-1....1Transport\bin\Debug\_1_1._._._._1Transport.exe
+F:\work\MOO\1-1....1Transport\1-1....1Transport\1-1....1Transport\bin\Debug\_1_1._._._._1Transport.pdb
+F:\work\MOO\1-1....1Transport\1-1....1Transport\1-1....1Transport\obj\x86\Debug\_1_1._._._._1Transport.exe
+F:\work\MOO\1-1....1Transport\1-1....1Transport\1-1....1Transport\obj\x86\Debug\_1_1._._._._1Transport.pdb
+F:\work\MOO\1-1....1Transport\1-1....1Transport\1-1....1Transport\obj\x86\Debug\_1_1._._._._1Transport.MyForm.resources
+F:\work\MOO\1-1....1Transport\1-1....1Transport\1-1....1Transport\obj\x86\Debug\1-1....1Transport.csproj.GenerateResource.Cache
+F:\work\MOO\1-1....1Transport\1-1....1Transport\1-1....1Transport\obj\x86\Debug\1-1....1Transport.csprojResolveAssemblyReference.cache

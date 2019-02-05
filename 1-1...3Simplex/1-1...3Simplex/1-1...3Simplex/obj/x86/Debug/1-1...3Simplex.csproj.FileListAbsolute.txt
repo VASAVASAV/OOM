@@ -1,0 +1,6 @@
+F:\work\MOO\1-1...3Simplex\1-1...3Simplex\1-1...3Simplex\bin\Debug\_1_1._._._3Simplex.exe
+F:\work\MOO\1-1...3Simplex\1-1...3Simplex\1-1...3Simplex\bin\Debug\_1_1._._._3Simplex.pdb
+F:\work\MOO\1-1...3Simplex\1-1...3Simplex\1-1...3Simplex\obj\x86\Debug\_1_1._._._3Simplex.exe
+F:\work\MOO\1-1...3Simplex\1-1...3Simplex\1-1...3Simplex\obj\x86\Debug\_1_1._._._3Simplex.pdb
+F:\work\MOO\1-1...3Simplex\1-1...3Simplex\1-1...3Simplex\obj\x86\Debug\_1_1._._._3Simplex.MyForm.resources
+F:\work\MOO\1-1...3Simplex\1-1...3Simplex\1-1...3Simplex\obj\x86\Debug\1-1...3Simplex.csproj.GenerateResource.Cache

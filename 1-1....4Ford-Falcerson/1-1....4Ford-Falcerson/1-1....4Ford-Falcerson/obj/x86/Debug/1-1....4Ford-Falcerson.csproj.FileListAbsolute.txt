@@ -1,0 +1,6 @@
+F:\work\MOO\1-1....4Ford-Falcerson\1-1....4Ford-Falcerson\1-1....4Ford-Falcerson\bin\Debug\_1_1._._._._4Ford_Falcerson.exe
+F:\work\MOO\1-1....4Ford-Falcerson\1-1....4Ford-Falcerson\1-1....4Ford-Falcerson\bin\Debug\_1_1._._._._4Ford_Falcerson.pdb
+F:\work\MOO\1-1....4Ford-Falcerson\1-1....4Ford-Falcerson\1-1....4Ford-Falcerson\obj\x86\Debug\_1_1._._._._4Ford_Falcerson.MyForm.resources
+F:\work\MOO\1-1....4Ford-Falcerson\1-1....4Ford-Falcerson\1-1....4Ford-Falcerson\obj\x86\Debug\1-1....4Ford-Falcerson.csproj.GenerateResource.Cache
+F:\work\MOO\1-1....4Ford-Falcerson\1-1....4Ford-Falcerson\1-1....4Ford-Falcerson\obj\x86\Debug\_1_1._._._._4Ford_Falcerson.exe
+F:\work\MOO\1-1....4Ford-Falcerson\1-1....4Ford-Falcerson\1-1....4Ford-Falcerson\obj\x86\Debug\_1_1._._._._4Ford_Falcerson.pdb

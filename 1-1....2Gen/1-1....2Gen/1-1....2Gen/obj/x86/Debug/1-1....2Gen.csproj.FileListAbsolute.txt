@@ -1,0 +1,8 @@
+F:\work\MOO\1-1....2Gen\1-1....2Gen\1-1....2Gen\obj\x86\Debug\1-1....2Gen.csprojResolveAssemblyReference.cache
+F:\work\MOO\1-1....2Gen\1-1....2Gen\1-1....2Gen\obj\x86\Debug\_1_1._._._._2Gen.MyProg.resources
+F:\work\MOO\1-1....2Gen\1-1....2Gen\1-1....2Gen\obj\x86\Debug\1-1....2Gen.csproj.GenerateResource.Cache
+F:\work\MOO\1-1....2Gen\1-1....2Gen\1-1....2Gen\bin\Debug\_1_1._._._._2Gen.exe
+F:\work\MOO\1-1....2Gen\1-1....2Gen\1-1....2Gen\bin\Debug\_1_1._._._._2Gen.pdb
+F:\work\MOO\1-1....2Gen\1-1....2Gen\1-1....2Gen\bin\Debug\MathParserNet.dll
+F:\work\MOO\1-1....2Gen\1-1....2Gen\1-1....2Gen\obj\x86\Debug\_1_1._._._._2Gen.exe
+F:\work\MOO\1-1....2Gen\1-1....2Gen\1-1....2Gen\obj\x86\Debug\_1_1._._._._2Gen.pdb

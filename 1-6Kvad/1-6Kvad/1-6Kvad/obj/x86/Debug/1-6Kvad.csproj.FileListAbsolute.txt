@@ -1,0 +1,10 @@
+D:\MOO\1-6Kvad\1-6Kvad\1-6Kvad\bin\Debug\1-6Kvad.exe
+D:\MOO\1-6Kvad\1-6Kvad\1-6Kvad\bin\Debug\1-6Kvad.pdb
+D:\MOO\1-6Kvad\1-6Kvad\1-6Kvad\bin\Debug\MathParserNet.dll
+D:\MOO\1-6Kvad\1-6Kvad\1-6Kvad\obj\x86\Debug\1-6Kvad.csprojResolveAssemblyReference.cache
+D:\MOO\1-6Kvad\1-6Kvad\1-6Kvad\obj\x86\Debug\_1_6Kvad.MyProg.resources
+D:\MOO\1-6Kvad\1-6Kvad\1-6Kvad\obj\x86\Debug\1-6Kvad.csproj.GenerateResource.Cache
+D:\MOO\1-6Kvad\1-6Kvad\1-6Kvad\obj\x86\Debug\1-6Kvad.exe
+D:\MOO\1-6Kvad\1-6Kvad\1-6Kvad\obj\x86\Debug\1-6Kvad.pdb
+F:\work\MOO\1-6Kvad\1-6Kvad\1-6Kvad\obj\x86\Debug\1-6Kvad.exe
+F:\work\MOO\1-6Kvad\1-6Kvad\1-6Kvad\obj\x86\Debug\1-6Kvad.pdb

@@ -1,0 +1,16 @@
+D:\MOO\1-11Grad-Drug\1-11Grad-Drug\1-11Grad-Drug\bin\Debug\1-11Grad-Drug.exe
+D:\MOO\1-11Grad-Drug\1-11Grad-Drug\1-11Grad-Drug\bin\Debug\1-11Grad-Drug.pdb
+D:\MOO\1-11Grad-Drug\1-11Grad-Drug\1-11Grad-Drug\bin\Debug\MathParserNet.dll
+D:\MOO\1-11Grad-Drug\1-11Grad-Drug\1-11Grad-Drug\obj\x86\Debug\1-11Grad-Drug.csprojResolveAssemblyReference.cache
+D:\MOO\1-11Grad-Drug\1-11Grad-Drug\1-11Grad-Drug\obj\x86\Debug\_1_8Huk.MyProg.resources
+D:\MOO\1-11Grad-Drug\1-11Grad-Drug\1-11Grad-Drug\obj\x86\Debug\1-11Grad-Drug.csproj.GenerateResource.Cache
+D:\MOO\1-11Grad-Drug\1-11Grad-Drug\1-11Grad-Drug\obj\x86\Debug\1-11Grad-Drug.exe
+D:\MOO\1-11Grad-Drug\1-11Grad-Drug\1-11Grad-Drug\obj\x86\Debug\1-11Grad-Drug.pdb
+F:\work\MOO\1-11Grad-Drug\1-11Grad-Drug\1-11Grad-Drug\obj\x86\Debug\1-11Grad-Drug.exe
+F:\work\MOO\1-11Grad-Drug\1-11Grad-Drug\1-11Grad-Drug\obj\x86\Debug\1-11Grad-Drug.pdb
+F:\work\MOO\1-11Grad-Drug\1-11Grad-Drug\1-11Grad-Drug\bin\Debug\1-11Grad-Drug.exe
+F:\work\MOO\1-11Grad-Drug\1-11Grad-Drug\1-11Grad-Drug\bin\Debug\1-11Grad-Drug.pdb
+F:\work\MOO\1-11Grad-Drug\1-11Grad-Drug\1-11Grad-Drug\bin\Debug\MathParserNet.dll
+F:\work\MOO\1-11Grad-Drug\1-11Grad-Drug\1-11Grad-Drug\obj\x86\Debug\1-11Grad-Drug.csprojResolveAssemblyReference.cache
+F:\work\MOO\1-11Grad-Drug\1-11Grad-Drug\1-11Grad-Drug\obj\x86\Debug\_1_8Huk.MyProg.resources
+F:\work\MOO\1-11Grad-Drug\1-11Grad-Drug\1-11Grad-Drug\obj\x86\Debug\1-11Grad-Drug.csproj.GenerateResource.Cache

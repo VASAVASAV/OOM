@@ -1,0 +1,8 @@
+F:\work\MOO\1-13Shtraf\1-13Shtraf\1-13Shtraf\bin\Debug\1-13Shtraf.exe
+F:\work\MOO\1-13Shtraf\1-13Shtraf\1-13Shtraf\bin\Debug\1-13Shtraf.pdb
+F:\work\MOO\1-13Shtraf\1-13Shtraf\1-13Shtraf\bin\Debug\MathParserNet.dll
+F:\work\MOO\1-13Shtraf\1-13Shtraf\1-13Shtraf\obj\x86\Debug\1-13Shtraf.csprojResolveAssemblyReference.cache
+F:\work\MOO\1-13Shtraf\1-13Shtraf\1-13Shtraf\obj\x86\Debug\1-13Shtraf.exe
+F:\work\MOO\1-13Shtraf\1-13Shtraf\1-13Shtraf\obj\x86\Debug\1-13Shtraf.pdb
+F:\work\MOO\1-13Shtraf\1-13Shtraf\1-13Shtraf\obj\x86\Debug\_1_8Huk.MyProg.resources
+F:\work\MOO\1-13Shtraf\1-13Shtraf\1-13Shtraf\obj\x86\Debug\1-13Shtraf.csproj.GenerateResource.Cache

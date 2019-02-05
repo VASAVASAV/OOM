@@ -1,0 +1,10 @@
+D:\MOO\1-9Nelder-Mid\1-9Nelder-Mid\1-9Nelder-Mid\bin\Debug\1-9Nelder-Mid.exe
+D:\MOO\1-9Nelder-Mid\1-9Nelder-Mid\1-9Nelder-Mid\bin\Debug\1-9Nelder-Mid.pdb
+D:\MOO\1-9Nelder-Mid\1-9Nelder-Mid\1-9Nelder-Mid\bin\Debug\MathParserNet.dll
+D:\MOO\1-9Nelder-Mid\1-9Nelder-Mid\1-9Nelder-Mid\obj\x86\Debug\1-9Nelder-Mid.csprojResolveAssemblyReference.cache
+D:\MOO\1-9Nelder-Mid\1-9Nelder-Mid\1-9Nelder-Mid\obj\x86\Debug\_1_8Huk.MyProg.resources
+D:\MOO\1-9Nelder-Mid\1-9Nelder-Mid\1-9Nelder-Mid\obj\x86\Debug\1-9Nelder-Mid.csproj.GenerateResource.Cache
+D:\MOO\1-9Nelder-Mid\1-9Nelder-Mid\1-9Nelder-Mid\obj\x86\Debug\1-9Nelder-Mid.exe
+D:\MOO\1-9Nelder-Mid\1-9Nelder-Mid\1-9Nelder-Mid\obj\x86\Debug\1-9Nelder-Mid.pdb
+F:\work\MOO\1-9Nelder-Mid\1-9Nelder-Mid\1-9Nelder-Mid\obj\x86\Debug\1-9Nelder-Mid.exe
+F:\work\MOO\1-9Nelder-Mid\1-9Nelder-Mid\1-9Nelder-Mid\obj\x86\Debug\1-9Nelder-Mid.pdb

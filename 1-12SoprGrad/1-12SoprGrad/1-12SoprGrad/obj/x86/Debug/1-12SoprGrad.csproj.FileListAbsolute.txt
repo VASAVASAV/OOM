@@ -1,0 +1,8 @@
+F:\work\MOO\1-12SoprGrad\1-12SoprGrad\1-12SoprGrad\bin\Debug\1-12SoprGrad.exe
+F:\work\MOO\1-12SoprGrad\1-12SoprGrad\1-12SoprGrad\bin\Debug\1-12SoprGrad.pdb
+F:\work\MOO\1-12SoprGrad\1-12SoprGrad\1-12SoprGrad\bin\Debug\MathParserNet.dll
+F:\work\MOO\1-12SoprGrad\1-12SoprGrad\1-12SoprGrad\obj\x86\Debug\1-12SoprGrad.csprojResolveAssemblyReference.cache
+F:\work\MOO\1-12SoprGrad\1-12SoprGrad\1-12SoprGrad\obj\x86\Debug\1-12SoprGrad.exe
+F:\work\MOO\1-12SoprGrad\1-12SoprGrad\1-12SoprGrad\obj\x86\Debug\1-12SoprGrad.pdb
+F:\work\MOO\1-12SoprGrad\1-12SoprGrad\1-12SoprGrad\obj\x86\Debug\_1_8Huk.MyProg.resources
+F:\work\MOO\1-12SoprGrad\1-12SoprGrad\1-12SoprGrad\obj\x86\Debug\1-12SoprGrad.csproj.GenerateResource.Cache

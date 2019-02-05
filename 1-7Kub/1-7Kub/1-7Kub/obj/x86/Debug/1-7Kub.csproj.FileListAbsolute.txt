@@ -1,0 +1,8 @@
+F:\work\MOO\1-7Kub\1-7Kub\1-7Kub\obj\x86\Debug\1-7Kub.csprojResolveAssemblyReference.cache
+F:\work\MOO\1-7Kub\1-7Kub\1-7Kub\bin\Debug\1-7Kub.exe
+F:\work\MOO\1-7Kub\1-7Kub\1-7Kub\bin\Debug\1-7Kub.pdb
+F:\work\MOO\1-7Kub\1-7Kub\1-7Kub\bin\Debug\MathParserNet.dll
+F:\work\MOO\1-7Kub\1-7Kub\1-7Kub\obj\x86\Debug\_1_6Kvad.MyProg.resources
+F:\work\MOO\1-7Kub\1-7Kub\1-7Kub\obj\x86\Debug\1-7Kub.csproj.GenerateResource.Cache
+F:\work\MOO\1-7Kub\1-7Kub\1-7Kub\obj\x86\Debug\1-7Kub.exe
+F:\work\MOO\1-7Kub\1-7Kub\1-7Kub\obj\x86\Debug\1-7Kub.pdb
